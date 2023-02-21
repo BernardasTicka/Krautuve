@@ -1,0 +1,15 @@
+D:\CODING\Testine programa\Krautuve\Krautuve\obj\Debug\net6.0\Krautuve.csproj.AssemblyReference.cache
+D:\CODING\Testine programa\Krautuve\Krautuve\obj\Debug\net6.0\Krautuve.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Testine programa\Krautuve\Krautuve\obj\Debug\net6.0\Krautuve.AssemblyInfoInputs.cache
+D:\CODING\Testine programa\Krautuve\Krautuve\obj\Debug\net6.0\Krautuve.AssemblyInfo.cs
+D:\CODING\Testine programa\Krautuve\Krautuve\obj\Debug\net6.0\Krautuve.csproj.CoreCompileInputs.cache
+D:\CODING\Testine programa\Krautuve\Krautuve\bin\Debug\net6.0\Krautuve.exe
+D:\CODING\Testine programa\Krautuve\Krautuve\bin\Debug\net6.0\Krautuve.deps.json
+D:\CODING\Testine programa\Krautuve\Krautuve\bin\Debug\net6.0\Krautuve.runtimeconfig.json
+D:\CODING\Testine programa\Krautuve\Krautuve\bin\Debug\net6.0\Krautuve.dll
+D:\CODING\Testine programa\Krautuve\Krautuve\bin\Debug\net6.0\Krautuve.pdb
+D:\CODING\Testine programa\Krautuve\Krautuve\obj\Debug\net6.0\Krautuve.dll
+D:\CODING\Testine programa\Krautuve\Krautuve\obj\Debug\net6.0\refint\Krautuve.dll
+D:\CODING\Testine programa\Krautuve\Krautuve\obj\Debug\net6.0\Krautuve.pdb
+D:\CODING\Testine programa\Krautuve\Krautuve\obj\Debug\net6.0\Krautuve.genruntimeconfig.cache
+D:\CODING\Testine programa\Krautuve\Krautuve\obj\Debug\net6.0\ref\Krautuve.dll
